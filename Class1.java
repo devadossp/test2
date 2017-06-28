@@ -13,5 +13,9 @@ Public class Class1 {
 		System.out.println("This is method3");
 	}
 
+	public void method5() {
+		System.out.println("This is method5");
+	}
+
 
 }
